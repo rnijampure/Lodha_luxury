@@ -61,6 +61,10 @@
 	#myVideo{
 		position: absolute;
 		z-index: 0;
+	min-width: 100%; 
+    min-height: 100%;
+		clear:both;
+		height:auto;
 	}
 	
 /* side Nav bar*/
